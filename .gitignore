@@ -1,2 +1,26 @@
+# Scala
 *.class
 *.log
+*.jarname
+
+# eclipse
+build
+.classpath
+.project
+.settings
+.worksheet
+
+# Intellij
+*.log
+*.iml
+*.ipr
+*.iws
+
+# Mac
+.DS_Store
+
+# Other
+.history
+.scala_dependencies
+.cache
+.chace-main
