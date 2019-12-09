@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/anon/Documents/scala_test/project/"), "scala_test-build")...
+[warn] Unrecognized repository sbt-plugin-releases-scalasbt, ignoring it
+[debug] Done updating ProjectRef(uri("file:/home/anon/Documents/scala_test/project/"), "scala_test-build")
